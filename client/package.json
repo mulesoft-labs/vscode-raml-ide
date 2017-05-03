@@ -3,7 +3,7 @@
   "description": "VSCode client for API Workbench server",
   "author": "Mulesoft",
   "publisher": "Mulesoft",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.8.0"
   },
