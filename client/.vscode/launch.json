@@ -23,6 +23,14 @@
 			"sourceMaps": true,
 			"outFiles": [ "${workspaceRoot}/out/test/**/*.js" ],
 			"preLaunchTask": "npm"
+		},
+		{
+			"name": "Attach to TS Server",
+			"type": "node",
+			"request": "attach",
+			"port": 6004,
+			"sourceMaps": true,
+			"outDir": "node_modules/raml-language-server/dist"
 		}
 	]
 }
