@@ -3,7 +3,7 @@
   "description": "VSCode client for API Workbench server",
   "author": "Mulesoft",
   "publisher": "Mulesoft",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.8.0"
   },
@@ -62,6 +62,6 @@
   },
   "dependencies": {
     "vscode-languageclient": "^3.2.0",
-    "raml-language-server":"0.0.3"
+    "raml-language-server":"0.0.4"
   }
 }
