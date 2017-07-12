@@ -6,8 +6,8 @@
 Clone the repo, run `npm install` and open a development instance of Code.
 
 ```bash
-git clone https://github.com/mulesoft-labs/vscode-raml-ls
-cd vscode-raml-ls
+git clone https://github.com/mulesoft-labs/vscode-raml-ide
+cd vscode-raml-ide
 cd client
 npm install
 ```
