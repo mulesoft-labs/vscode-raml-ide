@@ -13,7 +13,7 @@ npm install
 ```
 
  
-Either add `code` executable to path and launch `code .` , or Launch VS Code, open File Explorer, click "Add folder" and select `<installation_folder>/vscode-raml-ls/client`
+Either add `code` executable to path and launch `code .` , or Launch VS Code, open File Explorer, click "Add folder" and select `<installation_folder>/vscode-raml-ide/client`
 
 Either hit `F5` , or open Debug view, choose `Launch extension` configuration at the top and click the green triangle "Start Debugging".
 
